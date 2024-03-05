@@ -1,0 +1,6 @@
+fisrtname:lastname:email:password:mobilephone
+ahmed:nasser:ahmed@example.com:Ahmed456#:01111940757
+ahmed:ashraf:ahmedd.nasser@example.com:Ahmed123#:01112678432
+istabrak:mohamed:istabrak@example.com:istabrak123:01234345757
+mohamed:ashraf:mo@example.com:ashraf2222:01000456789
+nasser:hussein:nasser@example.com:nasser123#:01001581387
